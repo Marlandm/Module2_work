@@ -44,7 +44,7 @@
    #sushi{background-color: gold;}
 
 
-
+/* COMPUTER SCREEN */
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
@@ -52,8 +52,9 @@
     width: 33.33%;
   }
 }
+/* COMPUTER SCREEN */
 
-
+/* TABLET SCREEN */
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
@@ -66,15 +67,16 @@
     width: 100%;
   }
 }
+/* TABLET SCREEN */
 
 
+/* MOBILE SCREEN */
 @media (max-width: 767px) {.col-sm-12 {
     float: left;
     background-color: white;
     width: 100%;}
-
 } 
-
+/* MOBILE SCREEN */
 
 
 
