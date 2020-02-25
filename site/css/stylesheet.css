@@ -1,52 +1,48 @@
- *{font-family: Arial, Helvetica, sans-serif;
+*{font-family:"Comic Sans MS", cursive, sans-serif;
   box-sizing: border-box;}
 
+	.title-container {
+  width: 90%;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-size: 175%;
+  }
 
+   .menutitle{
+   	width:40%;
+   	float:right;
+   	border: 2px solid black;
+   	text-align: center;
+   	font-size: 125%;
+   	float:right;
 
-.title-container {
-font-size: 200%;
-width: 90%;
-height: 100px;
-margin-left: auto;
-margin-right: auto;
-text-align: center;
-}
+   }
 
-.menutitle{
-width:20%;
-float:right;
-border: 2px solid black;
-text-align: center;
-font-size: 125%;
-float:right;
-}
+   .menu{
+   	background-color: #8e8e8e;
+   	margin:10px;
+   	border:5px solid black;
+   }
 
-.menu{
-background-color: #837B7B;
-margin:10px;
-border:2px solid black;
-}
+   .text{
+   	margin:10px;
+   	margin-top:40px;
+   	clear:left;
+   }
 
-.text{
-margin:10px;
-margin-top:40px;
-clear:left;
-}
+   .row {
+    width: 90%;
+    border: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding:5px;
+   }
+   #chicken{background-color: pink;}
+   #beef{background-color: brown;}
+   #sushi{background-color: gold;}
 
-.row {
-width: 90%;
-border: 5px;
-margin-right: auto;
-margin-left: auto;
-padding:5px;
-}
-   
-#chicken{background-color: pink;}
-   
-#beef{background-color: brown;}
-   
-#sushi{background-color: gold;}
-   
 
 /********** Desktop **********/
 @media (min-width: 992px) {
