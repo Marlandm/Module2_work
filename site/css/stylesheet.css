@@ -52,7 +52,7 @@ clear:left;
     float: left;
     background-color: white;
     width: 33.33%;
-  }
+            }
 }
 
 /Tablet/
@@ -64,9 +64,7 @@ clear:left;
   .col-md-6 {
     width: 50%;
   }
-  .col-md-12 {
-    width: 100%;
-  }
+  .col-md-12 {width: 100%;}
 }
 
 /Mobile/
