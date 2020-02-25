@@ -39,10 +39,14 @@
     margin-left: auto;
     padding:5px;
    }
-   #chicken{background-color: pink;}
-   #beef{background-color: brown;}
-   #sushi{background-color: gold;}
 
+/* PROTIEN BACKGROUND COLORS */
+#chicken{background-color: pink;}
+
+#beef{background-color: brown;}
+
+#sushi{background-color: gold;}
+/* PROTIEN BACKGROUND COLORS */
 
 /* COMPUTER SCREEN */
 @media (min-width: 992px) {
