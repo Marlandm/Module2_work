@@ -7,7 +7,7 @@
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  font-size: 150%;
+  font-size: 175%;
   }
 
    .menutitle{
@@ -15,7 +15,7 @@
    float:right;
    border: 2px solid black;
    text-align: center;
-   font-size: 120%;
+   font-size: 125%;
    float:right;
 
    }
@@ -23,7 +23,7 @@
    .menu{
    background-color: #837B7B;
    margin:10px;
-   border:2px solid black;
+   border:5px solid black;
    }
 
    .text{
