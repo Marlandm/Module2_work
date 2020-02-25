@@ -74,7 +74,7 @@ padding:5px;
 /Mobile/
 @media (max-width: 767px) {.col-sm-12 {
     float: left;
-    background-color: green;
+    background-color: white;
     width: 100%;}
 
 }
