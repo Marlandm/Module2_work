@@ -46,7 +46,7 @@ clear:left;
 #sushi{background-color: gold;}
 
 
-/********** Desktop **********/
+/Desktop/
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
