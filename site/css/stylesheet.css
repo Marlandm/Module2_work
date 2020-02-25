@@ -1,13 +1,13 @@
 *{font-family:"Comic Sans MS", cursive, sans-serif;
   box-sizing: border-box;}
 
-.title-container {
+	.title-container {
   width: 90%;
   height: 100px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  font-size: 150%;
+  font-size: 175%;
   }
 
    .menutitle{
@@ -15,22 +15,22 @@
    	float:right;
    	border: 2px solid black;
    	text-align: center;
-   	font-size: 120%;
+   	font-size: 125%;
    	float:right;
 
    }
 
    .menu{
-   	background-color: #837B7B;
+   	background-color: #8e8e8e;
    	margin:10px;
-   	border:2px solid black;
+   	border:5px solid black;
    }
 
    .text{
    	margin:10px;
    	margin-top:40px;
    	clear:left;
-        }
+   }
 
    .row {
     width: 90%;
@@ -38,13 +38,13 @@
     margin-right: auto;
     margin-left: auto;
     padding:5px;
-       }
+   }
    #chicken{background-color: pink;}
    #beef{background-color: brown;}
    #sushi{background-color: gold;}
 
 
-/Desktop/
+/********** Desktop **********/
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
@@ -53,7 +53,7 @@
   }
 }
 
-/Tablet/
+/********** Tablet **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
@@ -67,10 +67,15 @@
   }
 }
 
-/Mobile/
+/********** Mobile **********/
 @media (max-width: 767px) {.col-sm-12 {
     float: left;
     background-color: white;
     width: 100%;}
 
 } 
+
+
+
+
+
