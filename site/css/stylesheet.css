@@ -27,25 +27,28 @@ margin:10px;
 border:2px solid black;
 }
 
-   .text{
-   	margin:10px;
-   	margin-top:40px;
-   	clear:left;
-   }
+.text{
+margin:10px;
+margin-top:40px;
+clear:left;
+}
 
-   .row {
-    width: 90%;
-    border: 5px;
-    margin-right: auto;
-    margin-left: auto;
-    padding:5px;
-   }
-   #chicken{background-color: pink;}
-   #beef{background-color: brown;}
-   #sushi{background-color: gold;}
+.row {
+width: 90%;
+border: 5px;
+margin-right: auto;
+margin-left: auto;
+padding:5px;
+}
+   
+#chicken{background-color: pink;}
+   
+#beef{background-color: brown;}
+   
+#sushi{background-color: gold;}
    
 
-/********** Desktop **********/
+/Desktop/
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
