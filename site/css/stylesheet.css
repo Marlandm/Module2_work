@@ -39,16 +39,9 @@
     margin-left: auto;
     padding:5px;
    }
-
-
-
-
-  
-#chicken{background-color: pink;}
-   
-#beef{background-color: brown;}
-   
-#sushi{background-color: gold;}
+   #chicken{background-color: pink;}
+   #beef{background-color: brown;}
+   #sushi{background-color: gold;}
 
 
 /********** Desktop **********/
@@ -81,21 +74,3 @@
     width: 100%;}
 
 } 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
