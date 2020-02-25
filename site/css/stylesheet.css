@@ -1,14 +1,16 @@
 *{font-family:"Comic Sans MS", cursive, sans-serif;
   box-sizing: border-box;}
 
-	.title-container {
-  width: 90%;
-  height: 100px;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
-  font-size: 175%;
-  }
+
+
+.title-container {
+font-size: 200%;
+width: 90%;
+height: 100px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
 
    .menutitle{
    	width:40%;
