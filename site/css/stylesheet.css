@@ -57,7 +57,7 @@ padding:5px;
   }
 }
 
-/Tablet/
+/********** Tablet **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
@@ -71,7 +71,7 @@ padding:5px;
   }
 }
 
-/Mobile/
+/********** Mobile **********/
 @media (max-width: 767px) {.col-sm-12 {
     float: left;
     background-color: white;
